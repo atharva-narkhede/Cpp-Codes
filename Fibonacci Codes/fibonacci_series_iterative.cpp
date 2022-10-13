@@ -1,5 +1,7 @@
 // Prints Fibonacci series 0 1 1 2 3 5 8 13 21 .........
 
+//Time Complexity: O(n)
+//Space Complexity: O(1)
 #include <iostream>
 #include <ctime>
 using namespace std;
